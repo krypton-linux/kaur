@@ -1,0 +1,2 @@
+# aurget
+Pythonで書かれたシンプルなaurヘルパー。
