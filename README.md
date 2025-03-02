@@ -1,2 +1,2 @@
 # aurget
-Pythonで書かれたシンプルなaurヘルパー。
+Pythonで書かれたKrypton用のシンプルなaurヘルパー。
