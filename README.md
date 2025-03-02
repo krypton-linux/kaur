@@ -1,2 +1,2 @@
-# aurget
+# kaur
 Pythonで書かれたKrypton用のシンプルなaurヘルパー。
